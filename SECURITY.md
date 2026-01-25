@@ -16,5 +16,5 @@ Please DO NOT report security vulnerabilities using a public GitHub issue. If yo
 - Through our mailing list: security@saleor.io
 
 We do not currently have a bounty program in place, so we cannot offer monetary rewards for any reported problems.
-
+Another change
 Whichever method you choose, you will be credited as the reporter once the announcement is published.
