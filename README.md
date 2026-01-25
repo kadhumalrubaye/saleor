@@ -5,6 +5,7 @@
    <img width="200" alt="saleor-commerce-logo" src="https://user-images.githubusercontent.com/4006792/214636328-8e4f83e8-66cb-4114-a3d8-473eb908b9c3.png">
 
 This is just test, skip it, but review it and discusst it first, then merge it 
+this is just test 
  </picture>
 </div>
 
